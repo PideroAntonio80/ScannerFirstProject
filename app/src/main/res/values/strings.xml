@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScannerFirstProject</string>
+    <string name="activity_main_bScan_text">Scan!</string>
+    <string name="activity_main_cbFlash_text">Activar Flash</string>
+</resources>
